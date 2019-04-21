@@ -31,3 +31,7 @@
 Ankoを使うとインテントがスッキリする
 
 ![](./image/ankoIntent.png)
+
+### Ankoの設定
+
+[コミットの差分](https://github.com/FromF/JankenAndroid/commit/c6fb30f69e89132d56b874381e4d2e5f8d15d705) を確認
